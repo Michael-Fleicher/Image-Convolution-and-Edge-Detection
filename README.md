@@ -1,6 +1,7 @@
 # Convolution & Edge Detection
 The purpose of this repository is to demonstrate the concept of the convolution and edge
-detection by performing simple manipulations on images, without use of any Image processing libraries
+detection by performing simple manipulations on images, without use of any Image processing libraries.
+
 This repository covers:
 - Implementing convolution on 1D and 2D arrays
 - Performing image derivative and image blurring
